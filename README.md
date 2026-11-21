@@ -20,7 +20,7 @@
 
 ```text
 请帮我安装并配置 https://github.com/amiduai/figma-motion-kit ：
-1. 克隆仓库到 ~/.agents/skills/figma-motion-kit（如使用 Antigravity 请同步软链到 ~/.gemini/antigravity/skills/figma-motion-kit）；
+1. 克隆仓库并安装到你当前 Agent 对应的全局 Skills 目录；
 2. 在我的 MCP 配置文件中加入 localfig（command: "npx", args: ["-y", "localfig"]）；
 3. 告诉我如何在 Figma Desktop 中导入 ~/.localfig/plugin/manifest.json 开启桥接面板。
 ```
